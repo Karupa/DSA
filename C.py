@@ -27,3 +27,4 @@ def merge(a,b):
     print(s)    
 
 merge(w1,w2)
+merge(w2,w1)
